@@ -1,0 +1,45 @@
+.add_new_product .card-body {
+  padding: 1rem !important;
+}
+
+.add_new_product .card-body .group {
+  padding: .5rem;
+}
+
+.product_order .card-blog .card-body h6 {
+  color: #a10000;
+}
+
+.product_order .card-blog .card-body .btn-sm {
+  padding: .5rem 1rem;
+}
+
+.product_order .card-blog .card-body .btn-sm i {
+  font-size: 12px;
+}
+
+.all_products table tbody .btn-sm {
+  padding: .5rem 1rem;
+}
+
+.all_products table tbody .btn-sm i {
+  font-size: 12px;
+}
+
+.all_products table tbody .d-flex img {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.all_products table tbody .Delivered {
+  color: #1ba000;
+}
+
+.all_products table tbody .inProgress {
+  color: #caa500;
+}
+
+.all_products table tbody .Cancel {
+  color: #860000;
+}
+/*# sourceMappingURL=main.css.map */
